@@ -1,0 +1,12 @@
+[
+    {
+        "identificacion": "admin",
+        "nombre": "Administrador",
+        "contrasena": "admin123"
+    },
+    {
+        "identificacion": "001",
+        "nombre": "Naomi Velastegui",
+        "contrasena": "1234"
+    }
+]
